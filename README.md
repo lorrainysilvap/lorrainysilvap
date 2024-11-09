@@ -10,5 +10,5 @@
 ##
 <div>
   <a href="www.linkedin.com/in/lstech" targer="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="www.linkedin.com/in/lstech" targer="_blank"><img src="(https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/wluv.lory/profilecard/?igsh=MTEzejF3MWJvanRmOQ%3D%3D" targer="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
