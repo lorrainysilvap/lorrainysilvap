@@ -1,7 +1,6 @@
 ## Olá, eu sou a Lorrainy!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorrainysilvap\&rank_icon=github&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorrainysilvap&hide_progress=true&show_icons=true&theme=dracula)
+
 <div style = "display: inline_block"><br>
   <img align="center" alt="Lorrainy-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Lorrainy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
